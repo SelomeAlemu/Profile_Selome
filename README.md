@@ -1,9 +1,9 @@
-<h1>Hi, I'm Selome! <br/><a href="https://github.com/SelomeAlemu"> Data Scientists </a>, <a href="https://www.linkedin.com/in/selome-alemu-ba299a8b/">Data Analysit</a>
+<h1>Hi, I'm Selome! <br/><a href="https://github.com/SelomeAlemu"> Data Scientists </a>, <a href="https://www.linkedin.com/in/selome-alemu-ba299a8b/">Data Analyst</a>
 
 <h2>👨‍💻 Data Scientists:</h2>
 
 - <b> Statistical Analysis & Hypothesis Testing</b>
-  <!- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)>
+ <!-- - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)-->
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
